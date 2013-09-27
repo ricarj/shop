@@ -1,4 +1,3 @@
-
 http://www.yuml.me/diagram/nofunky/usecase/draw
 
 // Cool Use Case Diagram
@@ -6,3 +5,8 @@ http://www.yuml.me/diagram/nofunky/usecase/draw
 [Manager]-(Mantain)
 (Mantain)>(Change Price)
 (Mantain)>(Insert Product)
+
+
+Music:
+http://www.newgrounds.com/audio/browse/sort/date
+http://promodj.com/

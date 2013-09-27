@@ -4,8 +4,9 @@ http://www.yuml.me/diagram/nofunky/usecase/draw
 [Customer]-(Buy)
 [Manager]-(Mantain)
 (Mantain)>(Change Price)
-(Mantain)>(Insert Product)
-
+(Mantain)>(AddProduct)
+(Mantain)>(SaleProduct)
+(Mantain)>(Accept Product)
 
 Music:
 http://www.newgrounds.com/audio/browse/sort/date

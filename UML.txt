@@ -1,0 +1,8 @@
+
+http://www.yuml.me/diagram/nofunky/usecase/draw
+
+// Cool Use Case Diagram
+[Customer]-(Buy)
+[Manager]-(Mantain)
+(Mantain)>(Change Price)
+(Mantain)>(Insert Product)

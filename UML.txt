@@ -11,3 +11,5 @@ http://www.yuml.me/diagram/nofunky/usecase/draw
 Music:
 http://www.newgrounds.com/audio/browse/sort/date
 http://promodj.com/
+
+Commit tests

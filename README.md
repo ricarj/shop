@@ -3,7 +3,7 @@ shop
 
 XP-shop
 
-Please read Wiki pages!
+Please read Wiki pages: https://github.com/ricarj/shop/wiki
 
 
 ChangeLog:
